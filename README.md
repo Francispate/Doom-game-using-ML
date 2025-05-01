@@ -1,3 +1,6 @@
+click this link for preview https://drive.google.com/file/d/1aBfa_Mri08zxFUo6yhCHXpGJwX2bjtQQ/view?usp=drivesdk
+
+
 credits to StanislavPetrovV
 
 # Machine Learning in Doom Game
