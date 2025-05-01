@@ -1,0 +1,12 @@
+Python 3.8+
+
+Pygame
+
+scikit-learn
+
+Pandas, NumPy
+
+joblib
+
+
+install this library and open cmd locate the file and run python main.py

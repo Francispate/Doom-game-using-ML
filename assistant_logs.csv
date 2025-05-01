@@ -1,0 +1,11 @@
+timestamp,player_health,threat_count,closest_enemy_distance,in_fov,is_hidden,player_ammo,nearby_health_packs,player_position_x,player_position_y,advice
+2025-04-30T20:11:38.258619,62,1,5.091710727421336,True,False,0,0,12.160290232256857,7.446383971264865,Soldier to EAST at 5.1 units. Approach with caution. TARGET: Soldier to EAST
+2025-04-30T20:11:38.763868,63,1,4.972375994373067,True,False,0,0,12.160290232256857,7.446383971264865,Soldier to EAST at 5.0 units. Approach with caution. TARGET: Soldier to EAST
+2025-04-30T20:11:41.321855,56,1,5.030956797555193,True,True,0,0,11.192437444380062,9.677499702093646,Soldier to EAST (hidden) at 5.0 units. Approach with caution. TARGET: Soldier to EAST (behind wall)
+2025-04-30T20:11:41.833913,57,1,3.79029184436263,False,True,0,0,11.067129262026889,9.9848455945373,Soldier to NORTHEAST (hidden) at 3.8 units. TARGET: Soldier to NORTHEAST (behind wall)
+2025-04-30T20:11:42.337895,58,1,2.850268978351531,True,True,0,0,11.067129262026889,9.9848455945373,Soldier to EAST (hidden) at 2.9 units. Approach with caution. TARGET: Soldier to EAST (behind wall)
+2025-04-30T20:11:42.845660,59,1,2.751548936214376,True,False,0,0,11.067129262026889,9.9848455945373,Soldier to EAST at 2.8 units. Approach with caution. TARGET: Soldier to EAST
+2025-04-30T20:11:43.350064,59,1,2.752395833448651,True,False,0,0,11.448754250708406,10.227057006353158,Soldier to EAST at 2.8 units. Approach with caution. TARGET: Soldier to EAST
+2025-04-30T20:11:43.852925,50,1,2.7757363140413194,True,False,0,0,11.614237652880037,10.332086733600743,Soldier to EAST at 2.8 units. Approach with caution. TARGET: Soldier to EAST
+2025-04-30T20:11:44.364627,41,1,2.7757363140413194,True,False,0,0,11.614237652880037,10.332086733600743,Soldier to EAST at 2.8 units. Approach with caution. TARGET: Soldier to EAST
+2025-04-30T20:11:44.868819,31,2,2.7757363140413194,True,False,0,0,11.614237652880037,10.332086733600743,2 enemies nearby. 2 enemies to the EAST! Soldier moving SOUTHEAST! Use this wall as cover. TARGET: Soldier to EAST
