@@ -20,7 +20,6 @@ This project enhances a Doom-style shooter game with a smart assistant powered b
 - `train_assistant_model.py` – ML training script
 - `assistant_model.joblib` – Trained model
 - `assistant_logs.csv` – Logged data
-- `Ml_Doom_Game_Report.docx` – Final report
 
 ## How to Run
 1. Install dependencies from `requirements.txt`
